@@ -22,4 +22,3 @@ npm run build --report
 
 >在 list-content 中自定义每一条的样式
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
