@@ -1,6 +1,6 @@
 # scroller
 
-> A Vue.js project
+> 一个插件基于better-scroller，适用于上拉刷新、下拉加载更多
 
 ## Build Setup
 
@@ -17,5 +17,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+> 如果只需要上拉刷新或下拉加载中的一个注释相应的方法
+
+>在 list-content 中自定义每一条的样式
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
